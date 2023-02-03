@@ -35,3 +35,4 @@ THEN I am again presented with current and future conditions for that city
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
+![06-server-side-apis-homework-demo](https://user-images.githubusercontent.com/115047281/216493657-cd752857-3dad-46da-be54-ac384d0f4eda.png)
